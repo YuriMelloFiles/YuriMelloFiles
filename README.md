@@ -9,7 +9,13 @@
 - 🧍‍♂️🧍‍♂️🧍‍♂️ I’m looking to collaborate on data science projects
 - 📫 Check out my website, you'll have the opportunity to know me better.  
 - ⚡ Fun fact: I'm very anxious to learn new things about programming. 
+<div align="center">
+  
+  <a href="https://github.com/YuriMelloFiles">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=YuriMelloFiles&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuriMelloFiles&layout=compact&langs_count=7&theme=dracula"/>
 
+</div>
 
 <div> 
 
@@ -21,13 +27,7 @@
  
 </div>
 
-<div align="center">
-  
-  <a href="https://github.com/YuriMelloFiles">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YuriMelloFiles&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuriMelloFiles&layout=compact&langs_count=7&theme=dracula"/>
 
-</div>
   
   <div style="display: inline_block"><br>
   <img align="center" alt="Yuri-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
