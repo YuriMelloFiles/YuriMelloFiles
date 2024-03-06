@@ -4,7 +4,7 @@
 
 
 
-- ☀️ I’m currently working on a engineering company, making solar projects and producing codes to automate stages.  
+- ☀️ I worked on a engineering company, making solar projects and producing codes to automate stages.  
 - 💻 I’m deepening my knowledge in Python. I have finished an App to convert kml files into csv files and convert  decimal coordinates into UTM.
 - 🧍‍♂️🧍‍♂️🧍‍♂️ I’m looking to collaborate on data science projects.
 - 📫 Check out my website, you'll have the opportunity to know me better.  
