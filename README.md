@@ -9,7 +9,7 @@
 - 🧍‍♂️🧍‍♂️🧍‍♂️ I’m looking to collaborate on data science projects.
 - 📫 Check out my linkedin, you'll have the opportunity to know me better.  
 - ⚡ Fun fact: I'm very anxious to learn new things about programming. 
-- 📖 Currently, I'm focusing on increase my skills on front-end. Have a very good and solid base is my target.
+- 📖 Currently, I'm focusing on increase my skills on Machine Learning. Have a very good and solid base is my target.
 
 <div> 
 
