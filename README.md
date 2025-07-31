@@ -1,4 +1,4 @@
-### 🇧🇷 Sobre mim (pt-br)📍🏆
+### 🇧🇷 Sobre mim (pt-br)📍🏆🇧🇷
 
 Olá! Me chamo Yuri Mello, sou desenvolvedor com mais de 5 anos de experiência em automação de processos com Python, além de atuar em projetos de desenvolvimento web, análise de dados e integração de sistemas.
 
@@ -7,6 +7,15 @@ Tenho conhecimentos em back-end, especialmente com NestJS, TypeORM, PostgreSQL, 
 Sou autor de um software patenteado no INPI e estou sempre buscando aprender novas tecnologias, especialmente no campo da inteligência artificial e dados.
 
 Sinta-se à vontade para explorar meus repositórios ou entrar em contato!
+
+🇺🇸 About me (en) 📍🏆
+Hi! I'm Yuri Mello, a developer with over 5 years of experience in process automation using Python, along with experience in web development, data analysis, and system integration.
+
+I have working knowledge in back-end development, particularly with NestJS, TypeORM, PostgreSQL, MySQL, SQL, and TypeScript, as well as experience with tools like Postman and Git. I’ve also worked with React, Next.js, and Power BI, which allows me to contribute to multiple layers of a project.
+
+I'm the author of a patented software registered at INPI, and I’m always looking to learn new technologies—especially in the fields of artificial intelligence and data.
+
+Feel free to explore my repositories or reach out!
 
 <div> 
 
